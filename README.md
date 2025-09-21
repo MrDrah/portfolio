@@ -1,2 +1,2 @@
 # portfolio
-portfolio of variosu project
+portfolio of various projects
